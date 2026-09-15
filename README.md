@@ -33,4 +33,16 @@ Gustavo Adolfo <br>
 `
 
 
+
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+
+
+- [x] Tarea 2
+- [x] Tarea 3
+
+
+
+
 > este es un ejemplo de una cita
