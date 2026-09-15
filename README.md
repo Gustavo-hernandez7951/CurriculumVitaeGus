@@ -2,7 +2,7 @@
 
 ## Curriculum Vitae del Ing. Nombre completo
 
-### Curriculum Vitae del Ing. Nombre completo
+### Curriculum Vitae del Ing. Nombre completo y Grupo
 
 Gustavo Adolfo <br>
 **Gustavo Adolfo** <br>
